@@ -10,4 +10,4 @@ I made this in VS Code, and also utilized the command line.
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](https://devblogs.microsoft.com/cppblog/cpp-tutorial-hello-world/)
+* [Microsoft Tutorial](https://devblogs.microsoft.com/cppblog/cpp-tutorial-hello-world/)
